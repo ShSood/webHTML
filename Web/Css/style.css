@@ -1,0 +1,18 @@
+/*This is a comment.
+Let's learn*/
+/*CSS SYNTAX*/
+selector{
+	property:value;
+	property:value;
+}
+/*Type Selector*/
+p{
+	/*This select all key elements*/
+	font-size:1px;
+	line-height: 11em;
+}
+figcaption{
+	/*select all<figcaption >*/
+	font-weight:bold;
+
+}
